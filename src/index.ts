@@ -2,4 +2,8 @@ import { CustomArray } from "./Array/CustomArray";
 console.log("Hello, world!");
 const Array = new CustomArray(5);
 Array.push(1);
+Array.push(2);
+Array.push(3);
+Array.push(4);
+Array.push(5);
 console.log(Array);
