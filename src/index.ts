@@ -6,4 +6,5 @@ Array.push(2);
 Array.push(3);
 Array.push(4);
 Array.push(5);
+Array.push(6);
 console.log(Array);
